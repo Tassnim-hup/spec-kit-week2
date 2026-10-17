@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Dependencies
+node_modules/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp

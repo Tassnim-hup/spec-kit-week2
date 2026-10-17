@@ -1,0 +1,7 @@
+{
+  "name": "quote-of-the-day",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}
